@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the log value of the amount that Anmol singh paid for his DLF apartment via Capbridge? ",
+    "normalized_question": "what is the log value of the amount that anmol singh paid for his dlf apartment via capbridge?",
+    "answer": "FINAL_ANSWER: 9.632862040100228",
+    "timestamp": 1763158849.1166472
+  },
+  {
+    "question": "Summarize this page: https://theschoolof.ai/",
+    "normalized_question": "summarize this page: https://theschoolof.ai/",
+    "answer": "FINAL_ANSWER: The School of AI (TSAI) offers disciplined, structured courses focused on the fundamentals of AI/ML, emphasizing hands-on learning and real-world applications. TSAI has trained over 7000 students through its ERA, EAG, and EPAi courses.\n\n*   **ERA (Evolving AI Research)** focuses on training Large Language Models (LLMs) from scratch, with a new structure in ERA V4 emphasizing practical, full-scale LLM training, Multi-GPU ImageNet training, Quantization Aware Training, and a balanced inclusion of RL + VLMs + Embeddings. The course has a steep learning curve and requires significant commitment. END (NLP Program) and EVA (Deep Vision Program) have been merged into ERA.\n*   **EAG (Evolving Agentic AI)** teaches students to build advanced Agentic AI systems capable of autonomous decision-making and interaction within web environments, focusing on browser-based agents and advanced multi-model Agentic Frameworks. This course emphasizes building such frameworks rather than using existing ones like LangChain.\n*   **EPAi (Evolving Python for AI)** is an advanced Python course for those wanting to become application and ML Architects, covering functional Python, OOP, and PyTorch. Feedback highlights the course's depth and practical assignments.\n*   **EMLO (Evolving MLOps)** is a course for mastering the art of managing and deploying machine learning models at scale, now merged with the ERA Course.\n\nRegistrations for EAG V3 and EPAi V6 are scheduled for April 2026, and ERA V5 registrations will open in Feb 2026.",
+    "timestamp": 1763158915.8574681
+  },
+  {
+    "question": "which course are we teaching on Canvas LMS?",
+    "normalized_question": "which course are we teaching on canvas lms?",
+    "answer": "FINAL_ANSWER: Based on the provided documents, the course being taught on Canvas LMS is EVA.",
+    "timestamp": 1763182292.9132893
+  },
+  {
+    "question": "How much Anmol singh paid for his DLF apartment via Capbridge?",
+    "normalized_question": "how much anmol singh paid for his dlf apartment via capbridge?",
+    "answer": "FINAL_ANSWER: Capbridge paid Rs. 42.94 Crore to DLF as part of the consideration for an apartment in The Camellias, which was initially booked by Jasminder Kaur. Anmol Singh Jaggi is related to both Gensol and Capbridge.",
+    "timestamp": 1763182331.6841042
+  },
+  {
+    "question": "Find the ASCII values of characters in INDIA and then return sum of exponentials of those values.",
+    "normalized_question": "find the ascii values of characters in india and then return sum of exponentials of those values.",
+    "answer": "FINAL_ANSWER: 7.599822246093079e+33",
+    "timestamp": 1763182352.0592394
+  },
+  {
+    "question": "",
+    "normalized_question": "",
+    "answer": "FINAL_ANSWER: [Could not generate valid solve()]",
+    "timestamp": 1763182464.5864244
+  },
+  {
+    "question": "What is the relationship between Gensol and Go-Auto?",
+    "normalized_question": "what is the relationship between gensol and go-auto?",
+    "answer": "FINAL_ANSWER: Found 5 search results:\n\n1. Gensol EV Fund Scam: Where did EV funds go? Rs 43cr flat, Rs 26L golf ...\n   URL: https://timesofindia.indiatimes.com/business/india-business/where-did-ev-funds-go-rs-43cr-flat-rs-26l-golf-sets-/articleshow/120363139.cms\n   Summary: In one of the several instances of fund diversions,Gensoltransferred Rs 775 crore toGo-Auto, anautodealership through which it bought electric vehicles for BluSmart, a ride hailing company.\n\n2. The Gensol Engineering Fraud: A Tale of Deception and Financial ...\n   URL: https://sharpely.in/blog/the-gensol-engineering-fraud:-a-tale-of-deception-and-financial-misconduct\n   Summary: Round-Tripping and Related-Party Transactions: SEBI identified a web of transactions involving entities likeGo-Auto, Capbridge Ventures, and Param Care Pvt. Ltd., where funds were cycled betweenGensoland promoter-linked firms to create the illusion of legitimate business dealings.\n\n3. INSIDE THE GENSOL MESS UNCOVERED BY SEBI - PressReader\n   URL: https://www.pressreader.com/india/mint-kolkata/20250417/282127822320720\n   Summary: Sebi scanned the bank statements ofGensolandGo-Auto, anautodealer that sold 4,704 EVs to the company. The regulator found that as soon as money was transferre\u00add fromGensoltoGo-Auto, it was either transferre\u00add back toGensolor to entities that were directly or indirectly related to the brothers.\n\n4. Gensol's downfall: A case of diverting funds, defaulting on loans, and ...\n   URL: https://yourstory.com/2025/04/diverting-funds-real-estate-golf-sets-watch-timeline-triggered-gensol-downfall\n   Summary: Gensolthen transfers the majority of these funds toGo-Auto, which then divides and sends money to both Capbridge andGensolConsultant, where Anmol and Puneet Singh are promoter directors.\n\n5. PDFParticulars Amount (Rs. Crores) Remarks Total transferred to Go-Auto ...\n   URL: https://www.taxzona.in/wp-content/uploads/2025/06/MJL-Gensol-Interim-Order-by-SEBI.pdf\n   Summary: The stock split announced byGensolhas been put on hold. Given the ongoing investigation and governance concerns, allowing this corporate action might mislead retail investors or artificially inflate trading activity, thus SEBI has prudently suspended it.",
+    "timestamp": 1763182612.2377763
+  },
+  {
+    "question": "Calculate the Fibonacci sequence up to the 20th term, then sum the even-indexed values.",
+    "normalized_question": "calculate the fibonacci sequence up to the 20th term, then sum the even-indexed values.",
+    "answer": "FINAL_ANSWER: 4180",
+    "timestamp": 1763183333.5151336
+  },
+  {
+    "question": "How much did Elon Musk spend on his first Tesla Roadster in 2008?",
+    "normalized_question": "how much did elon musk spend on his first tesla roadster in 2008?",
+    "answer": "FINAL_ANSWER: The base price of the Tesla Roadster in 2008 was $98,950. Later versions sold for $120,000.",
+    "timestamp": 1763183403.2956283
+  },
+  {
+    "question": "Provide a brief overview of the content on: https://www.nasa.gov/missions/",
+    "normalized_question": "provide a brief overview of the content on: https://www.nasa.gov/missions/",
+    "answer": "FINAL_ANSWER: The NASA Missions page provides a comprehensive overview of NASA's current and past missions, categorized by area of focus: Humans in Space, Earth, The Solar System, The Universe, Science, Aeronautics, and Technology. It includes news, events, multimedia resources, and specific mission details. You can search and filter missions by status (active, future, past), type, target, and program. The page also features articles and highlights related to ongoing NASA projects and discoveries.",
+    "timestamp": 1763183447.9849718
+  }
+]
